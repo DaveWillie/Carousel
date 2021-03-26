@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/53975893/112626991-ae17af80-8e39-11eb-
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
-# Possible NPM error while insatlling depending on yoor NPM version (fix)
+# Possible NPM error while insatlling depending on your NPM version (fix)
 
 
 This issue was solved by going to C:\Users\USERNAME\AppData\Roaming\npm-cache and deleting its contents manually and then later running cmd as Administrator and running npm install
