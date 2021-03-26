@@ -1,6 +1,6 @@
 Home screen (Desktop view) with a responsive 5-card carousal
 
-![screencapture-localhost-4200-2021-03-26-12_51_54](https://user-images.githubusercontent.com/53975893/112623326-e23ca180-8e34-11eb-84df-c55bae814dd8.png)
+![screencapture-localhost-4200-2021-03-26-13_14_42](https://user-images.githubusercontent.com/53975893/112623666-495a5600-8e35-11eb-811d-82ac2487e2e5.png)
 
 
 Home screen (Tablet view) with a responsive 5-card carousal that switches to 3-cards on the screen break-point.
