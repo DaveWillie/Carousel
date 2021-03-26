@@ -1,3 +1,8 @@
+Short Preview
+
+https://user-images.githubusercontent.com/53975893/112626991-ae17af80-8e39-11eb-9013-4c7a4aa38ce0.mp4
+
+
 Home screen (Desktop view) with a responsive 5-card carousal
 
 ![screencapture-localhost-4200-2021-03-26-13_14_42](https://user-images.githubusercontent.com/53975893/112623666-495a5600-8e35-11eb-811d-82ac2487e2e5.png)
