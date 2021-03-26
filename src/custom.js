@@ -4,7 +4,5 @@ function hello() {
 }
 function initCarousel(){
 
-
-  
 }
 
